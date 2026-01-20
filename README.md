@@ -177,6 +177,7 @@ This section explains the manual process for importing data that GDI can use.
 * GDI 致力於成為個人數位生活中不可或缺的工具，協助使用者更有效地管理資訊、做出明智的決策，並持續自我成長。 我們相信透過開源的力量和社群的共同努力，GDI 能夠不斷進化，滿足使用者日益增長的需求。
 
 ## Contact & Settlement | 聯絡與結算
+Email：sovereign.logic.sys@gmail.com
 PayPal-supported settlement available after verified review request.
 若有收穫，歡迎透過 PayPal 隨時進行無償支助。
 Greater Alpha, Greater Edge Responsibility 👉 https://paypal.me/SLSTS
