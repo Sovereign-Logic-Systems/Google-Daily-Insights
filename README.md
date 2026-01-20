@@ -175,3 +175,8 @@ This section explains the manual process for importing data that GDI can use.
 ## 結語
 * GDI is committed to becoming an indispensable tool in individuals' digital lives, helping them manage information more effectively, make informed decisions, and continue to grow personally. We believe that through the power of open source and the joint efforts of the community, GDI can continue to evolve and meet the growing needs of users.
 * GDI 致力於成為個人數位生活中不可或缺的工具，協助使用者更有效地管理資訊、做出明智的決策，並持續自我成長。 我們相信透過開源的力量和社群的共同努力，GDI 能夠不斷進化，滿足使用者日益增長的需求。
+
+## Contact & Settlement | 聯絡與結算
+PayPal-supported settlement available after verified review request.
+若有收穫，歡迎透過 PayPal 隨時進行無償支助。
+Greater Alpha, Greater Edge Responsibility 👉 https://paypal.me/SLSTS
